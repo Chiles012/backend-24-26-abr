@@ -1,0 +1,21 @@
+{
+  "name": "backend-24-26-abr",
+  "version": "1.0.0",
+  "description": "express, ucamp, abril",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ucamp",
+    "backend",
+    "servidor",
+    "express",
+    "node"
+  ],
+  "author": "Christian Serrano",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
